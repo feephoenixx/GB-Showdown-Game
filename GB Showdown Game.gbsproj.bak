@@ -551,7 +551,7 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "You must activate\nanother waypoin"
+                                                "You must activate\nanother waypoint"
                                             ],
                                             "avatarId": ""
                                         },
@@ -8220,10 +8220,10 @@
                 15,
                 15,
                 15,
-                0,
-                0,
-                0,
-                0,
+                15,
+                15,
+                15,
+                15,
                 15,
                 15,
                 15,
@@ -11357,7 +11357,8 @@
             ],
             "playerHit1Script": [],
             "playerHit2Script": [],
-            "playerHit3Script": []
+            "playerHit3Script": [],
+            "notes": "GIVE OPTION TO SHOW STATS AND EQUIPMENT"
         }
     ],
     "backgrounds": [
@@ -19255,7 +19256,8 @@
             "height": 18,
             "imageWidth": 160,
             "imageHeight": 144,
-            "filename": "anotherplaceholder.png"
+            "filename": "anotherplaceholder.png",
+            "tileColors": []
         },
         {
             "id": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
@@ -20860,6 +20862,22 @@
             "name": "PlayerY"
         },
         {
+            "id": "9",
+            "name": "ChestOpened"
+        },
+        {
+            "id": "10",
+            "name": "PlayerMana"
+        },
+        {
+            "id": "11",
+            "name": "PlayerMaxMana"
+        },
+        {
+            "id": "12",
+            "name": "Waypoints"
+        },
+        {
             "id": "45a9a012-1699-48f9-baeb-e2d5809157db__L0",
             "name": "EnemyHealth"
         },
@@ -20882,10 +20900,6 @@
         {
             "id": "f326be82-2c42-472e-8bb6-6b31f9074c0e__L2",
             "name": "Local 2"
-        },
-        {
-            "id": "9",
-            "name": "ChestOpened"
         },
         {
             "id": "f5587388-e976-4781-a655-8fd03fee86d9__L0",
@@ -20918,18 +20932,6 @@
         {
             "id": "5fa43f67-f1dd-4b29-8761-757a3a618813__L2",
             "name": "Local 2"
-        },
-        {
-            "id": "10",
-            "name": "PlayerMana"
-        },
-        {
-            "id": "11",
-            "name": "PlayerMaxMana"
-        },
-        {
-            "id": "12",
-            "name": "Waypoints"
         },
         {
             "id": "5f5b22f9-9570-44e3-a5ca-4cc7b37d0822__L0",
