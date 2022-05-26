@@ -10902,7 +10902,7 @@
         },
         {
             "name": "Variable Init",
-            "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+            "backgroundId": "18d073bd-299a-4257-bba6-3bc8b472b3aa",
             "width": 20,
             "height": 18,
             "type": "TOPDOWN",
@@ -11395,7 +11395,7 @@
         },
         {
             "name": "Inventory",
-            "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+            "backgroundId": "18d073bd-299a-4257-bba6-3bc8b472b3aa",
             "width": 20,
             "height": 18,
             "type": "TOPDOWN",
@@ -21038,8 +21038,8 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": "selected",
-        "worldScrollX": 477,
-        "worldScrollY": 815,
+        "worldScrollX": 415,
+        "worldScrollY": 824,
         "zoom": 175,
         "customColorsEnabled": true,
         "sgbEnabled": false,
