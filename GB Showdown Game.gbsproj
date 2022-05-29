@@ -40409,7 +40409,9 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "entry1"
+                                                "While working in \nmy lab one day,\nI was approached\nby a wizard who",
+                                                "goes by O'Day.\nSays he's looking\nfor talent to\nhelp his group.",
+                                                "They seem a bit\nshifty, but I'm\ncurious about\ntheir goals."
                                             ],
                                             "avatarId": ""
                                         },
@@ -40421,7 +40423,11 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "entry2"
+                                                "O'Days \ncontributions have\nimproved my\nproductivity",
+                                                "tremendously! My\nwork seems to \nprogress faster\nand faster as I",
+                                                "am mentored by\nhim. The Tempus\nFugitives are the\nreal deal, their",
+                                                "dedication alone\ncould achieve\ntheir goals \nthrough an ever-",
+                                                "lasting effort.\nI could help so\nmany with this\nsort of magic."
                                             ],
                                             "avatarId": ""
                                         },
@@ -40433,7 +40439,13 @@
                                         "command": "EVENT_TEXT",
                                         "args": {
                                             "text": [
-                                                "entry3"
+                                                "O'Day says I'm \nfinally ready to\njoin the Tempus\nFugitives.",
+                                                "I'm going to show\noff my most recent\nbreakthrough to\nhis group later.",
+                                                "I really think\nthis is going to\nhelp a lot of\npeople, and we can",
+                                                "continue to work\nfor as long as we\nwant, unfaltering\nand not needing to",
+                                                "worry about time\nas a restriction.\nMost of my work\nwill be carried",
+                                                "out in the crypt\nfrom now on, so if\nI don't come back\nup for a while, I",
+                                                "guess this is\nfarewell. \nTil the future,\n        -Timethy"
                                             ],
                                             "avatarId": ""
                                         },
@@ -70326,9 +70338,9 @@
         "startDirection": "right",
         "showCollisions": false,
         "showConnections": "selected",
-        "worldScrollX": 0,
-        "worldScrollY": 0,
-        "zoom": 50,
+        "worldScrollX": 358,
+        "worldScrollY": 1970,
+        "zoom": 150,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
